@@ -45,7 +45,7 @@ data.frame(x = 0:10, prob = dgeom(x = 0:10, prob = p)) %>%
 ```
 poin d menggunakan library dplyr untuk dapat mutasi tabel pada x = 3, dan juga ggplot2 untuk menggambarkan plot. sumbu x pada plot bernilai 0 sampai 10 sebagai perbandingan x = 3 terhadap x = 1 sampai 10, sumbu y pada plot bernilai probabilitas x kali gagal menggunakan distribusi geometrik
 source: https://rpubs.com/mpfoley73/458721
-<img src = "sc/2/d.png">
+<img src = "sc/1/d.png">
 
 ### e
 ``` r
