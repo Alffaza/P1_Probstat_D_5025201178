@@ -74,6 +74,8 @@ menggunakan fungsi `plot` untuk menggambar histogram dengan `pasien` sebagai sum
 <img src = "sc/2/b.png">
 
 ### c
+Dari hasil tersebut dapat dilihat bahwa peluang 6 bayi lahir lebih besar jika lebih mendekati hari pertama.
+### d
 ``` r
 mean(peluang_sembuh)
 var(peluang_sembuh)
